@@ -1,2 +1,2 @@
 # Aulas_de_C
- Curde de C com Alura
+ Curso de C com Alura
